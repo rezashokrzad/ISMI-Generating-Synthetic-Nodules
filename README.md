@@ -1,2 +1,4 @@
 # ISMI-Generating-Synthetic-Noduls
 Examining how an out-of-thebox detection algorithm can beneﬁt from generated lung nodule data. 
+
+Deep learning is becoming more common in medical imaging systems. With the use of deep learning models, new challenges arise, such as the issue of data scarcity, for the selection of training data. In this research, we examine how an out-of-thebox detection algorithm can beneﬁt from generated lung nodule data. A pipeline was created that produces realistic looking, simulated nodules and the accompanying metadata. The level of similarity to real nodules was tested with the use of detection algorithms. These tests show however that the generated nodules still need to be improved as they, in their current state, harm the performance of detection of real data. Index Terms—Deep learning, CT, Chest X-ray, data augmentation, simulation, nodules
