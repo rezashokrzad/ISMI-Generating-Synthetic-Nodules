@@ -5,9 +5,6 @@ Deep learning is becoming more common in medical imaging systems. With the use o
 
 
 
-Trunk branch is now the master branch.
-The newest version can also be found in the lennart_project branch, but i suggest chosing a more formal name.
-Reza will add his newest superimpose function sunday 15 august evening.
 
 Created a convenient jupyter notebook called pipeline.ipynb containing only 3 cells.
 This file contains everything needed to generate test code for superimposed nodules in xray generation.
